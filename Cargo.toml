@@ -1,0 +1,10 @@
+[package]
+name = "rag-rig-pdf"
+version = "0.1.0"
+edition = "2024"
+
+[dependencies]
+anyhow = "1.0.98"
+rig-core = { version = "0.12.0", features = ["derive", "pdf"] }
+serde = { version = "1.0.219", features = ["derive"] }
+tokio = { version = "1.45.0", features = ["full"] }
