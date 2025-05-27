@@ -23,7 +23,7 @@ A command-line chatbot application that answers questions based on the content o
 
 1. Clone this repository:
    ```bash
-   git clone https://github.com/yourusername/pdf-rag-chatbot.git
+   git clone https://github.com/RGGH/pdf-rag-chatbot.git
    cd pdf-rag-chatbot
    ```
 
@@ -78,10 +78,3 @@ The application:
 - Integration with more vector stores (Pinecone, Qdrant, etc.)
 - Support for additional document formats (DOCX, TXT, etc.)
 
-## License
-
-[Your License Here]
-
-## Contributing
-
-Contributions are welcome! Please feel free to submit a Pull Request.
